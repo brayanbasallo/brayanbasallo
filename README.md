@@ -8,7 +8,7 @@ I am a web developer specialized in the front end area, passionate and eager to 
 
 * 🌍  I'm based in Villavicencio meta
 * ✉️  You can contact me at [basallo17@gmail.com](mailto:basallo17@gmail.com)
-* 🚀  I'm currently working on [tusdatos.co](http://tusdatos.co)
+* 🚀  I'm currently working on [global66](https://www.global66.com/co/)
 * 🧠  I'm learning python and javascript
 
 ### Skills
